@@ -22,3 +22,4 @@
     * Nested Item 2.2
 * Saved Colleges Page
 * Remove unused components
+* Pricing Section Refactor
